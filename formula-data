@@ -3,7 +3,6 @@
     {  category:"Differentiation",
        formula:[
         {
-          category:"Differentiation",
           raw:"d/dxx^n = nx^(n-1)",
           math_ml:`<math xmlns="http://www.w3.org/1998/Math/MathML">
           <mstyle displaystyle="true" data-semantic-type="relseq" data-semantic-role="equality" data-semantic-id="21" data-semantic-children="18,20" data-semantic-content="9" data-semantic-speech="StartFraction d Over d x EndFraction x Superscript n Baseline equals n x Superscript n minus 1">
